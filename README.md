@@ -1,2 +1,1 @@
-# Practical_Data_Analysis
-데이터 분석
+# 구상 중입니다.
